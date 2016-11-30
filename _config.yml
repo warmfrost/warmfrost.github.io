@@ -10,11 +10,11 @@ exclude:
 
 # Site settings
 title: warmfrost party
-subtitle: "Welcome to my party"
+subtitle: "will show you something different from either."
 email: warmfrost0110@gmail.com
 name: warmfrost
 description: >
-  will show you something different from either.
+  Welcome to my party.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -72,8 +72,8 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: warmfrost
-    url: https://twitter.com/warmfrost
+    username:
+    url: https://twitter.com/
     desc: Follow me on Twitter
     share: false
 
